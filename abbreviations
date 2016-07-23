@@ -14,7 +14,7 @@ Stormtrooper                    SR
 ◾ Phase II Dark Trooper        P2
 ◾ Scout Trooper                ST
 ◾ Dewback Trooper              DT
-◾ Technician                   TECH
+◾ Repair Droid                 RD
 ◾ Heavy Stormtrooper           HS
 ◾ Sniper Trooper               SS
 ◾ Imperial shock trooper       IST
@@ -35,3 +35,6 @@ Stormtrooper                    SR
 ◾ Luggabeast Munitioneer    LUGGA
 ◾ Dowutin Hunter            DH
  
+Non Specific                 NS
+Non Specific DEfense         NSD
+Non SPecific Attack          NSA
