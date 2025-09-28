@@ -1,0 +1,533 @@
+3T GHANA Draft DATA COLLECTION FRAMEWORK DOCUMENT
+Note: This document is intended for use by 3T Ghana only. The contents outlined here are specific to operations in 3T Ghana and may not apply to other 3T subsidiaries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Introduction
+The Agogo Reforestation Project aims to establish a large-scale reforestation initiative with co-benefits in biodiversity restoration, community livelihoods, and carbon sequestration. To achieve compliance with international standards (Verra VCS, CCB), national regulators (EPA Ghana, Forestry Commission), and funder (KEPCO) expectations, a robust Monitoring, Reporting, and Verification (MRV) system is required.
+This document outlines the data collection framework for MRV. It aligns with guidelines detailed in GLO_3T MRV Guideline_2025-05-16 , covering: (i) the phases of implementation, (ii) the parameters to be assessed and why they matter, (iii) methods and tools, (iv) roles and responsibilities, (v) data collection frequency, and (vi) alignment to reporting requirements
+2. Phased-Approach Data Collection Framework
+This framework is organized into ten (10) phases that follow the full life‑cycle of the Agogo - KEPCO REFOREST 2800-ha project, from land access to long‑term MRV. Each phase includes the parameters to be assessed, the rationale for collecting them, and the practical methods/tools.
+Phase 1 — Land Acquisition & Stakeholder Engagement: Secure land access, verify tenure, obtain FPIC, map stakeholders, and establish grievance channels.
+Phase 2 — Ground Truthing & Baseline: Establish pre‑project conditions for land use, soils, biodiversity, and degradation history.
+Phase 3 — Seed Collection: Ensure traceable, diverse, native seed supply with proven viability.
+Phase 4 — Nursery Operations: Produce high‑quality seedlings with traceability from batch to field.
+Phase 5 — Stocking Index Analysis: Identify project/control plots within delineated donor pool area and corresponding matching covariates for stocking index analysis.
+Phase 6 — Land Preparation: Prepare sites safely (drought/fire risk control) and efficiently.
+Phase 7 — Planting: Record what was planted, where, when, and by whom; set the baseline for survival.
+Phase 8 — Maintenance: Keep plantings healthy (tending, beating-up, integrated pest and herbivore management, fire ride maintenance).
+Phase 9 — Monitoring, Reporting & Verification (MRV): Measure survival and growth, estimate biomass & carbon, and track biodiversity and social outcomes.
+Phase 10 — Community & Compliance: Demonstrate ongoing FPIC, social benefits, grievance handling, and legal compliance.
+Highlight point 1 (Data standards to be applied uniformly across all phases): Each entry must consistently include individuals responsible for data collection, when (date/time), where (GPS), how (method), and supporting photos/files, if applicable. 
+Phase 1: Land Acquisition & Stakeholder Engagement
+Purpose: Secure lawful access to land, build investor confidence, and maintain a lasting social licence to operate.
+Key Parameters & Why They Matter (Relevance of Data)
+Land tenure (ownership, registration, polygons, coordinates)
+Why collect: Proves legal right to operate; defines project boundaries for MRV and verifies eligibility under Verra; reduces land conflict risk.
+What to capture: Owner/authority (State/stool/family/private), community, tenure instrument (title/lease/SPA), document IDs and copies, Parcel_ID, GPS polygons (WGS84 or Latitude and Longitude), area (ha), overlaps/encumbrances, boundary photos.
+FPIC evidence (signed attendance lists and consent forms, signatures, geo-referenced photos, audio-visual records)
+Why collect: Demonstrates Free, Prior and Informed Consent, a CCB requirement and good‑practice expectation of EPA/FSD; underpins community trust and reduces future disputes.
+What to capture: Meeting notices, agenda, participant register (name, sex, role), signatures/thumbprints, consent statements, photos/audio-visuals, summaries in local language, decisions & agreed conditions.
+Stakeholder mapping (chiefs, farmers, CSOs, regulators)
+Why collect: Ensures all impacted/interested parties are identified for engagement, risk management, and benefit sharing; supports EIA consultations.
+What to capture: Stakeholder name, category, institution, influence/interest rating, contact, location/community, expectations/concerns, preferred communication channel.
+Grievance logs
+Why collect: Provides an auditable mechanism for receiving, tracking, and resolving complaints; required by CCB/EPA and valued by funders.
+What to capture: Grievance_ID, complainant info, date received, description, category (land, labour, environment, social), status, actions taken, resolution date, evidence.
+B. Collection Methods & Tools:
+Kobo forms with GIS widgets for points/polygons, photo & file uploads, and signature capture.
+Scan/attach legal documents (PDF/JPEG).
+Use or develop standard IDs/references (Parcel_ID, FPIC_Meeting_ID, Grievance_ID).
+Quality controls:
+Double‑check tenure document numbers: Verify tenure IDs (e.g., title deed numbers or lease references) against official registries or certified copies to ensure accuracy and authenticity. This reduces the risk of forged or duplicate documents.
+Duplicate detection for stakeholders: Compare new stakeholder entries against the master stakeholder database (using names, community, phone numbers, or IDs) to avoid double‑counting individuals or institutions. Helps keep engagement statistics accurate.
+Monthly grievance review: Every month, the grievance committee should review the log to check status, timeliness of resolutions, and patterns in complaints. This ensures accountability, responsiveness, and early identification of systemic issues.
+C. Responsible Unit: GIS/CIP/ground truthing team (boundaries), Community & stakeholder engagement unit (FPIC & stakeholders), Legal Unit/Country Director/PM (tenure verification).
+D. Frequency: Once‑off per parcel (tenure); each engagement (FPIC/stakeholders); continuous (grievances).
+E. Reporting Alignment: Verra (land eligibility & permanence), CCB (FPIC, participation, grievances), EPA/FSD (ownership & consultation evidence), Funders (social licence).
+Phase 2: Ground Truthing and Baseline Assessment
+Purpose: Establish the pre‑project reference conditions against which change (social, biodiversity, carbon) will be measured.
+Key Parameters & Why They Matter 
+Topography, Gradient & Landscape Form
+Why collect: Terrain characteristics such as slope, elevation, and landform affect soil formation, drainage, erosion risk, and vegetation patterns. Documenting these ensures stratification of plots reflects ecological variability and guides restoration planning.
+What to capture: Elevation (m), slope (%), aspect (°), landform type (ridge, valley, plain, depression), erosion features, drainage class, and georeferenced contour sketches or drone imagery where feasible.
+Current land use and vegetation cover
+Why collect: Confirms project additionality/eligibility and supports leakage analysis; sets baseline for land‑cover change and facilitates monitoring.
+What to capture: Land‑use class, canopy cover (%), slope, evidence of degradation, photo points, Block_ID linkages.
+Soil parameters:
+pH: affects nutrient availability and microbial activity.
+Cation exchange capacity (CEC): reflects soil’s ability to retain nutrients. 
+Total nitrogen, available phosphorus, and exchangeable potassium: important for fertility and plant growth.  
+Soil texture: indicates % clay, silt, and sand in soil sample; affects carbon storage capacity. 
+Highlight point 2: Soils rich in clay (high clay content) retain stable carbon longer due to their larger surface area and negative charge, which allows them to tightly bind and protect organic matter.
+Soil moisture content: affects soil carbon building (i.e., microbial activities leading to organic inputs (litter, dead roots, etc) transformation into soil carbon pools (carbon cycling).  
+Soil organic carbon (SOC): main indicator of soil carbon sequestration. 
+Soil bulk density and depth: needed to convert soil carbon concentration to carbon stock (tCO2/ha). Soil depth also allows for determining how soil carbon and other properties vary vertically.
+Why collect: Input to soil carbon and productivity models; informs species selection, site preparation, and use/avoidance of growth enhancers (fertilizer), and compliance with Verra and IPPC quidelines.
+What to capture: Depth increments (0 - 60 cm), GPS of pits (data collection point), lab IDs, methods used, bulk density scores.
+Biodiversity baseline (flora/fauna, mammals, birds, amphibians, soil fauna)
+Why collect: Required for CCB; allows the identification and confirmation of existing species, tracking of recovery and avoidance of harm to sensitive species.
+What to capture: Species lists with scientific/local names (species richness, presence of key species, habitat structure), .
+Historical degradation (fire, logging, charcoal evidence)
+Why collect: Documents threats and drivers; supports risk management and Verra baseline scenario.
+What to capture: Burn scars, stumps, charcoal kilns, compaction, community recall notes, dates if known.
+Baseline assessment
+Collection Methods & Tools: Sample plots, GPS/photo points, satellite/drone imagery (where feasible), soil sampling with chain‑of‑custody to accredited labs, as well as with camera traps, acoustic recorders, eDNA where feasible.
+Responsible Unit: CIP,  R&D unit, Ground truthing team, Baseline assessment team.
+Frequency: Baseline once, then soils every 5 years; biodiversity every 3–5 years.
+Reporting Alignment: Verra (baseline scenario), CCB (biodiversity baseline), EPA/FC (ecological baseline in EIA).
+Phase 3: Seed Collection
+Purpose: Secure genetically appropriate, diverse, and traceable seed to meet planting targets.
+Key Parameters & Why They Matter 
+Species (scientific & local names)
+Why collect: Ensures native, site‑appropriate mixes, high carbon sequestration potential, and biodiversity value.
+What to capture: Species name (scientific/local), targeted diversity list, threatened/endemic status.
+Source location (GPS, forest (on-reserve)/community (off-reserve)
+Why collect: Enables traceability and avoids illegal sourcing; supports EPA, Verra and FC oversights.
+What to capture: Region/Geographical area, forest name/community (geographical domain), collection permit or landowner/community consent note, number of mother trees sampled per species, sampling strategy (random, systematic, stratified, purposive, or cluster/plot-based sampling), mother tree species ID, DBH (cm), height (m), phenotypic note (form, crown, disease), distance to nearest conspecific (same species) mother tree.
+ Highlight point 3: Each sampled mother tree per forest reserve will have a unique code  (mother tree ”barcode”) that captures:
+Region/Geographical area (3 letters) → e.g., MAM = Mampong, JUA = Juaso, AGO = Agogo. If a mother seed of a specific species needs to be identified outside the project region, a unique regional code will precede the geographical area code. For example, WN (Western North), ASH (Ashanti), and EST (Eastern) are regional codes.
+Forest reserve/Forest type (abbreviated) → e.g., AFRAMHEAD, ESUKAW, BOFUM, BOB.
+Species code (4 letters): → e.g., TERsu = Terminalia superba, MILex = Milicia excelsa.
+Sequential tree number (3 digits per species per reserve) → e.g., 001, 002, 003, 004.
+Format: [[Region]-[Geographical area] - [Reserve] - [Species Code] - [Tree Number]-[Month and year of identification]
+Mother tree Code examples:
+MAM-AFRAMHEAD-TERsu-001-0925 → First Terminalia superba mother tree recorded in Afram Headwaters Forest Reserve (FR), Mampong in September 2025.
+JUA-ESUKAW-MILex-014-0825 → 14th Milicia excelsa mother tree recorded in Esukawkaw FR, Juaso, in August 2025. 
+AGO-BOFUM-CELmi-007-1225 → 7th Celtis mildbraedii tree in Boufoum FR, Agogo, recorded in December 2025.
+Operational rules:
+Code uniqueness: No two trees across the project should have the same ID
+Sequential numbering: Within each reserve x species type, numbering should start at 001 and continue upwards.
+Family or maternal lineage avoidance: To minimize relatedness, a minimum spacing of 100-200 meters in orthogonal directions should be maintained between selected mother trees of the same species that meet phenotypic thresholds.
+Collect seeds per tree, limiting the quantity to no more than 10% of the total species lot, ideally aiming for a minimum of 20 trees per species.
+As much as possible, avoid overharvesting: Leave ≅20 - 30% of fruits/seeds on each tree to sustain wildlife and ecosystem functions.
+When harvesting, aim to leave approximately 20-30% of fruits and seeds on each tree. This practice helps sustain wildlife and maintain ecosystem functions.
+Quantity collected (kg or # seeds)
+Why collect: Balances demand/supply and cost control; ensures high quality, viable, and desirable phenolic traits adequate for nursery production.
+What to capture: Seed Lot code, species (scientific + local name), seed quantity (per mother tree per lot): number or weight of seeds collected from each mother tree within the lot, batch weight (total weight of the seed batch), total seed count, forest reserve seed was collected from, collection date, team/collector(s) name, bag numbering (sequential numbering of bags if a single seed lot is distributed across multiple bags)
+Highlight point 4: Unique identifiers will be assigned to each batch of seeds collected (seed Lot code) at a particular place, time, and from identified mother trees will be assigned each consignment collected. Example of typical components in a Lot code: 
+Strata ID: Abbreviations of the Geographical location + name of forest reserve (as indicated above) where collection was done (e.g., MAM-AFRAMHEAD → Mampong, Afram Headwaters forest reserve; JUA-BOB → Juaso, Bobiri forest reserve;  AGO-NBA→ Agogo, North Bandai forest reserve.
+Species code: Species name Abbreviation → e.g., Terminalia superba = TERsu, Milicia excelsa = MILex
+Collection date  (MMYY format) → e.g., 0825 for August 2025)
+Sequential lot number: in case multiple collections happen in the same stratum/time (Lot 1, Lot 2, Lot 3, etc.)
+Seed Lot Code examples: (What + when + where + which batch)
+JUA-BOB/TERsu/0825--L01 → Terminalia superba, collected August 2025, Juaso, Bobiri forest reserve, first batch of seeds collected.
+AGO-NBA/MILex/0925-L03 → A third consignment of Milicia excelsa, collected from the North Bandai forest reserve in September 2025.
+Pre-treatment of collected seeds
+Why collect: Trace and replicate successful methodologies, compare germination rates across different batches, optimize pre-treatment techniques, enhance germination success and uniformity.
+What to capture: 
+General information: Seed lot code (unique ID linking back to mother tree, forest, date collected, collection team), species name, date of pre-treatment, re-treatment team/personnel (no, gender, wages). 
+Pre-treatment details: Pretreatment Batch ID (PBID), seed quantity (count or weight), seed condition before treatment (cleaned, still with pulp, dried, fresh, etc), method used (e.g., hot water soak, scarification, fermentation, stratification, de-pulping, drying), duration of treatment (e.g., soaked for 24 hrs, stratified for 2 weeks),  % of seeds floating, % of seeds discarded (moldy, rotten, insect-damaged, etc.), purity, moisture content.
+Highlight point 5: Each collected batch will receive a unique, traceable pre-treatment batch code (seed lot code) from its identified mother trees. This code will typically include:
+Species code -  to know what species is being processed
+Seed lot code reference -  links the batch to its collection source
+Pre-treatment type/number - distinguishes between different pre-treatments (e.g., Hot water soaking,  simple soaking, mechanical scarification, manual scarification)
+Batch number - if the same pre-treatment (PT) is repeated on the same lot, sequential numbering is applied to keep them distinct (01, 02, 03, etc.)
+Format example - Seed lot code - pre-treatment type, batch no.
+Example of pre-treatment batch code
+JUA-BOB/TERsu/0825-L01-HS(5)1
+JUA = Juaso
+BOB = Bobiri forest reserve
+TERsu = Terminalia superba
+0825  = Lot collected in August 2025
+L01 = First consignment of Terminalia superba from Bobiri FR.
+HS(5) = Hot water soak for 5 minutes
+1 = First batch treated from the lot
+AGO-NBA/MILex/0925-L03-MS3
+AGO  = Agogo
+NBA = North Bandai forest reserve
+MILex = Milicia excelsa 
+0925 = Lot collected in September 2025
+L03  = Third consignment of Milicia excelsa from NBA FR.
+MS = Mechanical scarification
+03 = Third batch of seeds from the lot. 
+Germination test results
+Why collect: Indicates seed viability and vigor, predicts nursery output, and reduces wastage.
+What to capture: Seed lot code + PBID (pre-treatment batch ID) + Germination test code (GTID), test conditions (test start and end dates, sample size, substrate/medium used, temperature, and moisture regime), test results (number of seeds sown (N), number germinated (G), number of abnormal seedlings (deformed, weak, stunted), number of dead or rotten seeds, daily germination counts (for calculating germination speed), % germination, mean germination time, viability/dormancy notes, expected nursery output of seed lot, labour (no,. Gender, wages), lessons learned.
+Highlight point 6: Each germination test result must be logged under its PBID.
+Example for Germination Test code (GTID): JUA-BOB/TERsu/0825-L01-HS(5)1-GT01-R085-M09.2
+JUA = Juaso
+BOB = Bobiri forest reserve
+TERsu = Terminalia superba
+0825  = Lot collected in August 2025
+L01 = First consignment of Terminalia superba from Bobiri FR.
+HS(5) = Hot water soak for 5 minutes
+1 = First batch treated from the lot
+GT01 = First germination test for a specific pretreated seed batch. (Note: For multiple germination tests, replicates for that batch will be GT02, GT03, etc.).
+R085 = Results of % germination, zero-padded (i.e., 085 = 85%)
+M09.2 = Mean germination time (MGT) to one decimal (i.e., 09.2 = 9.2 days).
+Seed Storage conditions
+Why collect: Maintain seed viability,  prevent pest or fungal damage before sowing.
+What to capture: Storage code (STID), storage method (airtight containers, refrigeration, desiccant use), temperature/humidity conditions, seed moisture content at storage, date of storage, storage location, inspections carried out (e.g., pest infestation, mold, viability check), labour (no., gender, wages). 
+Highlight point 7: Full Traceability Chain Example
+Seed Lot: AGO-NBA/MILsu/0925-L03
+Pre-treatment Batch (PBID): AGO-NBA/MILex/0925-L03-MS3
+Germination Test (GTID): AGO-NBA/MILex/0925-L03-MS3-GT01-R072-M11.4
+Storage (STID):
+AGO-NBA/MIEEX/0925-L03-MS3-GT01-R072-M11.4-ST01 → Room temp (25 °C, 60% RH), airtight container 
+AGO-NBA/MILex/0925-L03-MS3-GT01-R072-M11.4-ST02 → Refrigerated (10 °C, 40% RH) with silica gel.
+Collection Methods & Tools: 
+Parent tree form and seed form with species pick-list, batch IDs, small-lot germination tests, pre-treatment logs, seed storage register, and seed storage photo evidence, seed withdrawal log. 
+Mother tree register, seed register, pre-treatment record sheet, germination test datasheet, list of short codes for regions, geographical locations, forest reserves, selected species, and common pre-treatment methods.
+Responsible Unit: Seed collection/Nursery team.
+Frequency: Seasonal; per collection batch.
+Reporting Alignment: Verra/CCB (native species integrity, high survival potential), EPA/FSD (seed source & storage records), Funders (species diversity, readiness and quality assurance).
+Phase 4: Nursery Operations
+Purpose: Produce healthy seedlings at scale with full traceability to seed source and field blocks.
+Key Parameters & Why They Matter
+Nursery batch ID, Seed sowing date, germination %, mortality % — core traceability, productivity/quality indicators that predict planting readiness and survival.
+Potting media composition — affects root development and survival; supports sustainable media use (compost, loamy soil, or their mixture)
+Pest/disease incidence — early detection prevents large-scale loss and limits chemical use.
+Seedling transfer records (# transferred to field) — maintains chain-of-custody from seed to site (Verra permanence).
+Labour (gender, wages) — demonstrates fair, inclusive employment (CCB & funders).
+Highlight point 7: 
+Nursery Batch ID Creation
+At sowing, seeds from one or more Storage_IDs form a Nursery Batch_ID (e.g., NB-SY-010-25)
+NB → Nursery batch number  (e.g., 1 - first batch of seedlings, 2 - second batch of seedlings, 3 - third batch of seedlings).
+Bed number → Nursery site/Location/Station Code (e.g., B1, B2, B3, etc.).
+Seedling number →  (differential numbering, e.g., 001, 002, 003 ).
+25 → Year (2025 in this case).
+So NB2-B4-056-25 means: signifies the second batch of seedlings of a specific species, raised on bed 4 in the nursery, with the sequential numbering 056, from the year 2025.
+Full Traceability Chain Example
+Seed Lot (SLID):
+ AGO-NBA/MILex/0925-L03
+Pre-treatment Batch (PBID):
+ AGO-NBA/MILex/0925-L03-MS3
+Germination Test (GTID):
+ AGO-NBA/MILex/0925-L03-MS3-GT01-R082-M11.4
+ (Result: 82% germination, Mean Germination Time = 11.4 days)
+Storage (STID):
+AGO-NBA/MILex/0925-L03-MS3-GT01-R072-M11.4-ST01 → Room temp (25 °C, 60% RH), airtight container
+AGO-NBA/MILex/0925-L03-MS3-GT01-R072-M11.4-ST02 → Refrigerated (10 °C, 40% RH) with silica gel
+Nursery Batch (NBID):
+ AGO-NBA/MILex/0925-L03-MS3-GT01-R072-M11.4-ST01-SY-01-25.
+AGO-NBA/MIEEX/0925-L03-MS3-GT01-R072-M11.4-ST01-NB-SY-02-25
+AGO-NBA/MIEEX/0925-L03-MS3-GT01-R072-M11.4-ST02-NB-SY-03-25
+If a storage Lot is split into Multiple Nursery Batches
+From Storage Lot: -ST01, staggered sowing can produce several nursery batches:
+NB-SY-001-25 → First nursery sowing (January 2025)
+NB-LH-003-25 → Second nursery sowing (March 2025)
+NB-TA-008-25 → Third nursery sowing (May 2025)
+Collection Methods & Tools: batch/bed/tray IDs; weekly counts; photo evidence; integrated inventory of Batch_ID → Species → Block_ID.
+Responsible Unit: Nursery supervisor; Admin (labour records).
+Frequency: Weekly for performance; per transfer for inventory.
+Reporting Alignment: Verra (traceability), EPA/FSD (nursery certification), CCB (sustainable practices & equity).
+Phase 5: Stocking Index Analysis 
+Key Parameters & Why They Matter
+Identification of project vs. control plots
+Why collect: Establishes scientifically valid comparison points for growth and carbon sequestration performance.
+What to capture: Plot IDs, GPS coordinates, plot size, designation (project/control).
+Stocking density measurements (stems/ha)
+Why collect: Indicates planting adequacy and site-level performance; core to carbon model inputs.
+What to capture: Tree counts per sample plot, species, DBH at 1.3 m, merchantable height, wood density references list, large woody debris diameter, length, decay class, 
+Collection Methods & Tools: Kobo stocking survey forms; GPS-enabled plot sampling; diameter tapes; clinometer, compass, staff field logs.
+Responsible Unit: CIP (stocking index analysis); 3T Field Operations (maintenance Team).
+Frequency: Before land preparation; stocking index annually thereafter.
+Reporting Alignment: Verra (stocking adequacy, permanence), EPA/FSD (scientific monitoring), Funders (performance assurance).
+Phase 6: Land Preparation
+Purpose: Prepare sites safely and efficiently while reducing environmental risks.
+Key Parameters & Why They Matter
+Area cleared (ha) & method (manual/mechanized) 
+Why collect: Links labour and fuel use to environmental impact; informs leakage and GHG footprint; ensures operational efficiency.
+What to capture: Area (ha) cleared, method used, equipment type, dates, GPS polygons, and before/after photos, labour used.
+Firebreak width & maintenance
+Why collect: Critical for fire risk management and permanence of carbon stocks; required by EPA/FSD.
+What to capture: Width (m), GPS track logs, date of establishment, frequency of maintenance, photo evidence, labour used.
+Planting area demarcation (forest management unit (FMU), blocks, compartments, plots, subplots, rows): 
+Why collect: Ensures clear field organization, traceability, and stratification of planting areas; prevents overlapping claims and misreporting of planted area; provides foundation for GPS-based monitoring and survival assessments.
+What to capture: FMU-ID, Block_ID, Compartment_ID, Coupes/Stand-ID, Plot_ID, subplot_ID, Row numbers, GPS boundary coordinates, demarcation maps (polygon shapefiles), signage/photos.
+Categorizations in the FMU Demarcation
+FMU (Agogo Forest Management Unit)
+The entirety of the management area, encompassing thousands of hectares, is typically aligned with the geographical domain or legal and administrative boundaries.
+Subdivided by several plantation blocks, and labelled numerical.
+Example:
+FMU-Agogo 
+FMU-Akontombra 
+FMU-Adaklo 
+FMU_ID: 
+FMU-Ago01 (Agogo Forest Management Unit #01 
+FMU-Akon03 (Agontombra Forest Management Unit #03)
+Blocks
+Subdivisions of the Forest Management Unit (FMU) within a defined legal and administrative jurisdiction.
+Typically identified by the name of the community or individual holding land ownership.
+ Varied sizes within each FMU, categorized alphabetically.
+Examples:
+Berkof Phase 1: Block A & Block B
+Berkof Phase 2: Block C
+Richie & GL Co: Block D
+Koreaso: Block E
+Ensonyameye: Block F (200 ha), Block G (63 ha), and Block H (129.72 ha).
+Block_ID: 
+FMU-Ago01-A(Berkof) (Block A on Berkof land within Agogo FMU #01)
+FMU-Ako03-B (Block B in Atwakan within Akontombra FMU #05)
+Compartments 
+Varying sizes within each Block, labelled numerical
+Large management units, often separated by access routes or fire belts.
+Examples: 
+Compartment 1, 2, 3, 4, 5 …
+Compartment_ID:
+FMU-Ago01-A(Berkof)-3 (Compartment 3, Block A on Berkof land, within the Agogo Forest Management Unit #01)
+Coupe/ Stand 
+Each compartment is subdivided into stands of 25 ha each.
+Compartments are sequentially numbered, for instance.
+Examples:
+Coupe/ Strand 1, 2, 3, 4, …..
+Coupe/Strand_	ID:
+FMU-Ago01-A(Berkof)-3-1 (Strand 1, Compartment 3, Block A on Berkof land, within the Agogo Forest Management Unit #01)
+Plots 
+Each 25-ha strand is further divided into five 5-ha plots.
+Sub-plots labeled with lower-case letters: e.g., a, b, c, d, e, etc.
+Examples:
+Plot a, b, c, d, e, …..
+Plot_ID:
+FMU-Ago01-A(Berkof)-3-1c (Plot c, Strand 1, Compartment 3, Block A on Berkof land and within the Agogo Forest Management Unit #01)
+Sub-plots
+Sub-plots delineate main plots into 1-hectare units.
+Sub-plots are designated numerically , e.g., 1, 2, 3, 4, etc.
+Examples:
+Sub-plot 1, 2, 3, 4, 5……
+sub-plot_ID:
+FMU-Ago01-A(Berkof)-3-1c-5 (Sub-plot 5, Plot c, Strand 1, Compartment 3, Block A on Berkof land, within the Agogo Forest Management Unit)
+Rows
+Subsequently, sub-plots are delineated by rows established at varying distances, contingent upon the desired planting density of the vegetation.
+Sub-plots are designated numerically, prefixed with the letter R (e.g., R1, R2, R3, R4, etc.).
+Examples:
+Sub-plot R1, R2, R3, R4, R5……
+sub-plot_ID:
+FMU-Ago01-A(Berkof)-3-1c-5-R30 (Row 30 of Sub-plot 5, Plot c, Strand 1, Compartment 3, Block A on Berkof land, Agogo Forest Management Unit)
+Project plot:
+This refers to plots Project Plot (5-hectare unit) established within the project area through representative sampling for stocking index monitoring and performance benchmarking.
+Project Plots will be identified using a structured plot_ID system, with a PP prefix to clearly distinguish them from conventional operational plots.
+Project plot_ID (PPID)
+The ID will follow the FMU → Block → Compartment → Stand → Plot → Subplot hierarchy, but with “PP” at the beginning to indicate its project-specific monitoring role.
+Example: PP1-FMU-Agog02-E(Koreaso)-2-4b-2-0925 can be broken down as:
+PP1 → Project Plot number 1 (sequentially assigned).
+FMU-Agogo02 → Second Forest management unit within the Agogo geographical domain
+E → Block A located in Koreaso within Agogo FMU number 2.
+2 → Compartment 2 in Block E.
+4 → Strand 4 within compartment 2
+b → Plot b (if applicable — may be omitted if the approved project plot size exceeds 5 ha and is not divisible by 5).
+b. Plot b (if applicable – may be omitted if the approved project plot exceeds 5 ha and is not in multiples of 5).
+2 → Subplot b (if applicable—may be presented as a range if the approved project plot exceeds 1 ha).
+0925 → Month and year of establishment (September 2025).
+Control plot (CP): 
+Control Plots are established outside the intervention area as baseline comparators to monitor natural conditions and isolate project activity impacts.
+Linked to specific Project Plots, they provide reference data for performance benchmarking.
+Control Plots will be identified using a structured Control Plot ID (CPID) system, with a CP prefix to clearly distinguish them from dellineated project plots (PP) and conventional operational plots.
+The CPID structure follows a structured ID code system, including additional descriptors for the number of controls, their sequence, distance, and direction from the parent Project Plot.
+Example:
+ CP1/PP1-FMU-Agog02-E-2-4b-2-K5-S001-D010-A180-0925
+This can be broken down as:
+CP1 → Control Plot number 1 (sequentially assigned across the project).
+PP1-FMU-Agog02-E(Koreaso)-2-4b-2 → The parent Project Plot to which the control is linked (Project Plot 1, in FMU-Agogo02, Block E in Koreaso, Compartment 2, Stand 4, Plot b, Subplot 2).
+K5 → A total of 5 control plots established for this Project Plot.
+S001 → This is Control Plot #1 in the K5 set.
+D010-A180 → Located 10 km away, at azimuth 180° (due south) from the parent Project Plot.
+0925 → Established in September 2025.
+
+Control plot_ID (CCID):
+CP1/PP1-FMU-Agog02-E(Koreaso)-2-4b-2-K5-S001-D010-A180-0925 refers to:
+Control Plot #1 of 5 associated with Project Plot 1
+Parent Project Plot is in FMU Agogo02, Block E in Koreaso, Compartment 2, Stand 4, Plot b, Subplot 2
+Located 10 km due south of the Project Plot
+Established in September 2025
+Labour inputs (male/female) — tracks local employment and safeguards.
+Collection Methods & Tools: Land-prep form; GPS polygons and track logs; photo evidence; HR logs for labour hours.
+Responsible Unit: Field Operations (Planting, maintenance, and monitoring teams).
+Frequency: Once per block (prep); annual firebreak checks and maintenance.
+Reporting Alignment: Verra (leakage & permanence), EPA/FSD/GNFS (erosion/fire), Funders (operational efficiency & jobs).
+Phase 7 – Planting (Establishment & Baseline Setting) 
+Purpose: Accurately document plantings to provide baseline data for survival and growth monitoring.
+Key Parameters & Why They Matter
+Planting Dates and Seasonality: Links growth and survival trends to ecological timing.
+Planting Locations: establishes spatial baseline, ensures traceability and supports MRV.
+Species and Quantity Planted: Confirms alignment with the restoration design, validates species mix and carbon sequestration strategy.
+Planting Teams: Demonstrates local labour inclusion, ensures accountability,  and social benefits.
+Batch_ID / Nursery Source: Links back to seedling origin, traceability, and nursery records (MRV framework).
+Highlight point 8: This gives a full seed-to-tree traceability audit trail that includes:
+Seed Lot (SLID):
+ AGO-NBA/MIEEX/0925-L03
+A third consignment of Milicia excelsa, collected from the North Bandai forest reserve in September 2025.
+Pre-treatment Batch (PBID):
+ AGO-NBA/MIEEX/0925-L03-MS03
+AGO  = Agogo, NBA = North Bandai forest reserve, MIEEX = Milicia excelsa , 0925 = Lot collected in September 2025, L03  = Third consignment of Milicia excelsa from NBA FR., MS = Mechanical scarification, 03 = Third batch of seeds from the lot. 
+Germination Test (GTID):
+ AGO-NBA/MIEEX/0925-L03-MS03-GT01-R082-M11.4
+ (Result: 82% germination, Mean Germination Time = 11.4 days)
+Storage (STID):
+AGO-NBA/MIEEX/0925-L03-MS3-GT01-R072-M11.4-ST01 → Room temp (25 °C, 60% RH), airtight container
+Nursery Batch (NBID):
+AGO-NBA/MIEEX/0925-L03-MS3-GT01-R072-M11.4-ST01-NB2-B4-06-25 
+Signifies the second batch of seedlings of a Milicia excelsa, raised on bed 4 in the nursery, with the sequential numbering 06, from the year 2025
+Planting point ID (Plant_ID):
+Format: Compartment-block-plot-row-GPS tagged
+Compartment - (e.g. A, B, C, etc.)
+Block - (B01, B02, B03, etc.)
+Plot - (P01, 02, 03, 04)
+ROW (01, 02, 03, 05, 09, 12, 34, etc.)
+GPS coordinates - (latitude, longitude)
+Example:
+C/A/BO5-P03-R07-P134
+Plant_ID in practise
+Plant_ID: C/A/BO5-P03-R07-P134
+GPS: 06.842331, -01.297654
+Linked Seedling_ID: AGO-NBA/MIEEX/0925-L03-MS3-GT01-R072-M11.4-ST01-NB2-B4-06-25 
+Planting date: 15 March 2026
+Plating team/planter: Kwame Mensah
+Soil pH: 
+Block supervisor: King George
+Why Collect
+To establish the baseline dataset against which survival, growth, and biomass are measured.
+To verify species composition and distribution matches the restoration design.
+To maintain transparency and accountability in labour and community participation.
+What to Capture
+Planting date & time
+Block_ID, GPS coordinates of planting points (Planting area/Compartment/block/plot/ planting point_ID, GPS)
+Number of seedlings planted by species
+Planting team (names, group, gender-disaggregated where possible, educational level, community)
+Batch_ID (seed lot ID, pre-treatment batch ID, storage batch ID, nursery lot)
+
+Collection Methods & Tools
+KoboCollect planting forms (with GPS capture)
+Field logbooks (paper backup)
+Photos for visual verification
+QR-coded seedling tags (optional, if resources allow)
+Responsible Unit
+Nursery Manager (seedling batch traceability)
+Forest Operations Manager (planting operations oversight)
+Field Supervisors & Team Leads (daily records)
+Frequency
+Daily during planting event
+Compiled & submitted weekly during planting season
+Reporting Alignment
+Internal planting reports (daily → weekly → monthly consolidation)
+Baseline establishment data for Verra VCS/CCB MRV
+EPA restoration compliance reporting
+Community stakeholder updates (transparency on labour and participation)
+Phase 8 - Maintenance (Post-Planting Care & Risk Management)
+Purpose:  Ensure plantation health and sustainability through systematic maintenance.
+Key Parameters & Why They Matter
+Beating-up / Replanting Records: Ensures survival targets are met and species balance maintained.
+Fuel load clearing and fire ride maintenance: Reduces threats to planted seedlings, protects investments.
+Pest and Disease Monitoring: Early detection of pests and disease prevents large-scale mortality.
+Watering/Irrigation (if applicable): Sustains planted seedlings or saplings in dry spells.
+
+Why collect: To secure establishment phase success and reduce mortality.
+What to capture:
+Number of seedlings replaced, species, Block_ID, plots, rows,  plant_ID
+Area weeded, method used, dates, fire ride width, fire incidents (GPS coordinates, cause and extent of damage)
+Pest/disease type, Pest population density, severity, control measures applied
+Watering frequency, quantity, area covered
+
+Collection Methods & Tools: KoboCollect forms, GPS devices, field logbooks, photo documentation
+Responsible Unit: Field Supervisors, Nursery Manager, Forest Operations Manager
+Frequency: Monthly during first 2 years after planting, quarterly thereafter
+Reporting Alignment: Verra/CCB survival audits, EPA compliance checks, Funders (safeguards and employment)
+Phase 9 – Monitoring & Verification (MRV)
+Purpose:  Provide robust data for carbon accounting, biodiversity monitoring, and social benefit assessment.
+Key Parameters & Why They Matter
+Tree Survival and Growth (DBH at 1.3 m, merchantable height, canopy cover, basal area, biomass): Core inputs for carbon models and permanence.
+Soil carbon monitoring - ensures comprehensive GHG accounting
+Project activity emissions (operations, transportations, land preparations): These are emissions from the work required to establish and maintain the plantation.
+Combustion: Fuel use
+Electricity use (kWh).
+Fertilizer-related emissions (N2O from nitrogen application)
+Biodiversity Monitoring: Captures ecosystem recovery and safeguards biodiversity benefits.
+Soil and Water Monitoring: Shows improvement in ecosystem functions.
+Social and Livelihood Indicators: Validates co-benefits for communities.
+Why collect: To verify ecological integrity and co-benefits for carbon certification and stakeholder accountability.
+What to capture:
+Survival percentage per Block_ID, DBH, height, biomass
+Flora species richness,habitat mapping, indicator species status
+Soil nutrients (C, N, pH), water turbidity, pH, conductivity
+Fuel use (petrol/diesel), Liters used, vehicle type, machine/vehicle ID, purpose (transport, land clearing), duration of operation
+ kWh consumption (meter reading) or litres of fuel for generator (If nursery or irrigation runs on grid/generator), duration used.
+fertilizer type (urea, NPK, organic manure, %N by weight), amount (kg), batch ID, procurement receipt, % Nitrogen content (product composition: label or lab analysis), N applied (kg)/ha, GPS-linked block/plot, area (ha), application date, method of application, rainfall events after application (heavy rainfall leads to more leaching), soil type/texture (affects N loss pathways).
+Household surveys, livelihood metrics, gender outcomes
+Revenue inflows, disbursements, reinvestments, audited statements
+Jobs created (gender-disaggregated), household benefits, FPIC consultations
+Collection Methods & Tools: Permanent sample plots, biodiversity transects, soil & water test kits, community surveys, fuel activity form (KoboCollect), activity data inventory, Fuel purchase receipt, mileage logbooks (kobo/google form), fertilizer application logbook (block,_ID, date, product, kg, operator, GPS), google sheet or MRV master register with an “active data” tab for fertilizers and a calculation tab implementing conversion equations, 
+Responsible Unit: Monitoring & Evaluation (M&E) Team (Survival and Growth Monitoring, Soil and Water Monitoring) , Biodiversity Officer (Biodiversity Monitoring), Community Liaison Unit (Social and Livelihood Indicators), Finance Manager, External Auditors, Biodiversity Specialist.
+
+Frequency: Frequency: Every 2–5 years (carbon MRV cycle), annually (social & financial), bi-annually (biodiversity)
+Reporting Alignment: Verra (VCS/CCB MRV reports), EPA (monitoring obligations), Funders (impact evidence).
+Phase 10 – Community & Compliance
+Purpose: Ensure strong stakeholder relationships, grievance management, and regulatory compliance throughout project life.
+Key Parameters & Why They Matter
+Community Engagement (meetings, training, sensitization) & FPIC renewal (evidence of continuous consent) – ensures legitimacy, strengthens trust, and reduces social risks.
+Grievance logs (status and resolution) - demonstrates accountability.
+Permits & Authorizations – Ensures full regulatory alignment and legal standing.
+Benefit-Sharing Tracking – Ensures transparency and fairness in carbon revenue distribution.
+Why collect: To maintain compliance and legitimacy, while safeguarding community rights.
+What to capture:
+EPA permits, Forestry Commission approvals, District Assembly endorsements, water use permits.
+Community engagement attendance lists (gender-disaggregated), grievance records (issue, resolution, time), 
+Revenue shared, projects supported, equity across groups
+Collection Methods & Tools: signed meeting records, consent forms, Kobo grievance log, grievance data base, project financial records, permit scans, 
+Responsible Unit: Community Liaison Unit, Finance Team
+Frequency: Continuous engagement, quarterly engagement tracking, annual compliance verification, grievance (monthly)
+Reporting Alignment: EPA (annual reporting), Verra CCB (social compliance, community stakeholder reports)
+
+
+This table summarizes the parameters to be collected across phases of the Agogo Reforestation Project. It outlines the activity, type of parameter, what data must be captured, the method/tools for collection, and the responsible unit. This provides a quick reference for both project implementation and reporting to Verra, EPA/FSD, and funders.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
